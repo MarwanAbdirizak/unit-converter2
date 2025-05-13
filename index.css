@@ -1,7 +1,7 @@
 .section{
     text-align: center;
    display: flex;
-   background-color: rgba(12, 92, 43, 0.71);
+   background-color: rgba(12, 32, 20, 0.71);
    align-items: center;
    flex-direction: column;
    margin: 50px auto;
